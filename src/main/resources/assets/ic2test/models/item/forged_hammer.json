@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures":{
+    "layerO": "ic2test:item/forged_hammer"
+  }
+}
